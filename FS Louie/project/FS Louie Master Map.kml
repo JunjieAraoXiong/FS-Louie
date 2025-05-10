@@ -1,0 +1,4530 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="1Ck7wf-wJhrmx8Z82dvhJEPiG4UANBPYa">
+	<name>FS Louie Master Map</name>
+	<gx:CascadingStyle kml:id="__managed_style_42C02B1BEF36DE15549C">
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=388e3c&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>4</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<displayMode>hide</displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_369994671436DE15549C">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_42C02B1BEF36DE15549C</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_51A1310CB336DE15549C</styleUrl>
+		</Pair>
+	</StyleMap>
+	<gx:CascadingStyle kml:id="__managed_style_8ACABCE29936DE155498">
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=fbc02d&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>6</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<displayMode>hide</displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_6B62537ABC36DE155498">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_762B359B7F36DE155498</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_8ACABCE29936DE155498</styleUrl>
+		</Pair>
+	</StyleMap>
+	<gx:CascadingStyle kml:id="__managed_style_5131FD037536DE155498">
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=000000&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>6</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<displayMode>hide</displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_450702B1F536DE155498">
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=000000&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>4</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<displayMode>hide</displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_2E8540E38136DE155498">
+		<styleUrl>https://earth.google.com/balloon_components/base/1.0.26.0/card_template.kml#main</styleUrl>
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=fbc02d&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>6</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_7F08B24A1736DE155497">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_8ABD49449836DE155497</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_964149C1E136DE155497</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="__managed_style_33E6F6415B36DE155498">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_450702B1F536DE155498</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_5131FD037536DE155498</styleUrl>
+		</Pair>
+	</StyleMap>
+	<gx:CascadingStyle kml:id="__managed_style_964149C1E136DE155497">
+		<styleUrl>https://earth.google.com/balloon_components/base/1.0.26.0/card_template.kml#main</styleUrl>
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>6</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_67EAB7B10C36DE155497">
+		<styleUrl>https://earth.google.com/balloon_components/base/1.0.26.0/card_template.kml#main</styleUrl>
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>6</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_52A798AE4036DE155497">
+		<styleUrl>https://earth.google.com/balloon_components/base/1.0.26.0/card_template.kml#main</styleUrl>
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>4</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_482A0CC2EC36DE155497">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_52A798AE4036DE155497</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_67EAB7B10C36DE155497</styleUrl>
+		</Pair>
+	</StyleMap>
+	<gx:CascadingStyle kml:id="__managed_style_342C7BD79F36DE155497">
+		<styleUrl>https://earth.google.com/balloon_components/base/1.0.26.0/card_template.kml#main</styleUrl>
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=ffee58&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>6</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_276028AD1336DE155497">
+		<styleUrl>https://earth.google.com/balloon_components/base/1.0.26.0/card_template.kml#main</styleUrl>
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=ffee58&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>4</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_51A1310CB336DE15549C">
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=388e3c&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>6</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<displayMode>hide</displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_07E47C6CCE36DE155497">
+		<styleUrl>https://earth.google.com/balloon_components/base/1.0.26.0/card_template.kml#main</styleUrl>
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=f57c00&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>6</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_16DDD9680936DE15549E">
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=ffee58&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>4</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_0A8C3E2FBA36DE15549E">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_16DDD9680936DE15549E</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_22249CA8AC36DE15549E</styleUrl>
+		</Pair>
+	</StyleMap>
+	<gx:CascadingStyle kml:id="__managed_style_277586692A36DE15549D">
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=66bb6a&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>6</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_1660779B7736DE155497">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_276028AD1336DE155497</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_342C7BD79F36DE155497</styleUrl>
+		</Pair>
+	</StyleMap>
+	<gx:CascadingStyle kml:id="__managed_style_1ADD2F1EB436DE15549D">
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=66bb6a&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>4</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_1A8362F4B336DE155498">
+		<styleUrl>https://earth.google.com/balloon_components/base/1.0.26.0/card_template.kml#main</styleUrl>
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=fbc02d&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>4</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_0565FC254A36DE15549D">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_1ADD2F1EB436DE15549D</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_277586692A36DE15549D</styleUrl>
+		</Pair>
+	</StyleMap>
+	<gx:CascadingStyle kml:id="__managed_style_89115A62C036DE155496">
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=7b1fa2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>6</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_1D46F0F18136DE155495">
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>4</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_762B359B7F36DE155498">
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=fbc02d&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>4</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<displayMode>hide</displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_6257B984E636DE15549D">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_7644EE302736DE15549D</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_85C5286B2036DE15549D</styleUrl>
+		</Pair>
+	</StyleMap>
+	<gx:CascadingStyle kml:id="__managed_style_7D1E35B64636DE155496">
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=7b1fa2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>4</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_8ABD49449836DE155497">
+		<styleUrl>https://earth.google.com/balloon_components/base/1.0.26.0/card_template.kml#main</styleUrl>
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>4</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_431A28C73E36DE15549D">
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>4</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_05FE42972D36DE155498">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_1A8362F4B336DE155498</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_2E8540E38136DE155498</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="__managed_style_6E1D3A3EFB36DE155496">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_7D1E35B64636DE155496</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_89115A62C036DE155496</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="__managed_style_F2C5C9FDD336DE155496">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_10A99611FBE36DE155496</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_07E47C6CCE36DE155497</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="__managed_style_3B078FD86736DE15549D">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_431A28C73E36DE15549D</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_5AF75582FC36DE15549D</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="__managed_style_04B9E915D636DE155495">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_1D46F0F18136DE155495</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_231CBD5D5836DE155495</styleUrl>
+		</Pair>
+	</StyleMap>
+	<gx:CascadingStyle kml:id="__managed_style_22249CA8AC36DE15549E">
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=ffee58&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>6</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_7644EE302736DE15549D">
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=ab47bc&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>4</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_85C5286B2036DE15549D">
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=ab47bc&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>6</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_10A99611FBE36DE155496">
+		<styleUrl>https://earth.google.com/balloon_components/base/1.0.26.0/card_template.kml#main</styleUrl>
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=f57c00&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>4</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_5AF75582FC36DE15549D">
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>6</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_231CBD5D5836DE155495">
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>6</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<Placemark id="06051C791C20A702C46B">
+		<name>Oriental Garden</name>
+		<LookAt>
+			<longitude>-123.1918623324588</longitude>
+			<latitude>45.2124407007577</latitude>
+			<altitude>42.08120787766678</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>34.99999088225342</gx:fovy>
+			<range>13108.2207416324</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_04B9E915D636DE155495</styleUrl>
+		<Point>
+			<coordinates>-123.1941483868309,45.21417994294708,42.1276454192599</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="00E9FA96FD20A703CDFA">
+		<name>Chinese Tea Room</name>
+		<LookAt>
+			<longitude>-123.2608772</longitude>
+			<latitude>44.5650133</latitude>
+			<altitude>70.21625775136147</altitude>
+			<heading>132.0706298742222</heading>
+			<tilt>45</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>726.790202588594</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_04B9E915D636DE155495</styleUrl>
+		<Point>
+			<coordinates>-123.2608772,44.5650133,70.2948059358713</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="045B13DB0220A704B849">
+		<name>Ming&apos;s</name>
+		<LookAt>
+			<longitude>-123.1195695998418</longitude>
+			<latitude>44.07691299964771</latitude>
+			<altitude>124.3595905770585</altitude>
+			<heading>-159.662698305327</heading>
+			<tilt>45.00000000029081</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>733.4035847589257</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_04B9E915D636DE155495</styleUrl>
+		<Point>
+			<coordinates>-123.1195696,44.076913,124.4987256783006</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="07F618A33520A7063E59">
+		<name>Chinese Lantern</name>
+		<LookAt>
+			<longitude>-122.7834267009908</longitude>
+			<latitude>45.49337319928265</latitude>
+			<altitude>74.58709517219673</altitude>
+			<heading>-129.8717869007496</heading>
+			<tilt>45.00000000099291</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>714.0790295167244</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_3B078FD86736DE15549D</styleUrl>
+		<Point>
+			<coordinates>-122.7834267,45.49337319999999,74.67063234616384</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0F035519D920A707E133">
+		<name>Kim&apos;s</name>
+		<LookAt>
+			<longitude>-122.8520100000973</longitude>
+			<latitude>42.30444219987389</latitude>
+			<altitude>432.7730820485671</altitude>
+			<heading>173.5450293808898</heading>
+			<tilt>45.00000000011723</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>757.0011158638954</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_04B9E915D636DE155495</styleUrl>
+		<Point>
+			<coordinates>-122.85201,42.3044422,433.2572367178039</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="081968452820A708E5D9">
+		<LookAt>
+			<longitude>-122.633225999398</longitude>
+			<latitude>45.41850969967184</latitude>
+			<altitude>64.77327663613109</altitude>
+			<heading>133.7493801874464</heading>
+			<tilt>45.00000000053219</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>715.1103399778367</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_04B9E915D636DE155495</styleUrl>
+		<Point>
+			<coordinates>-122.633226,45.41850969999999,64.84580230513996</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0E9626DEAB20A70A13CF">
+		<name>Canton</name>
+		<LookAt>
+			<longitude>-118.796269799758</longitude>
+			<latitude>45.667533800512</latitude>
+			<altitude>322.5840387084643</altitude>
+			<heading>-153.9862275014456</heading>
+			<tilt>44.99999999946571</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>711.6750952663278</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_6257B984E636DE15549D</styleUrl>
+		<Point>
+			<coordinates>-118.7962698,45.66753380000001,322.9448746491298</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="09EB0A1D6220A70B5B5E">
+		<name>Chin&apos;s Cafe</name>
+		<LookAt>
+			<longitude>-123.3523697998993</longitude>
+			<latitude>43.20105799980838</latitude>
+			<altitude>151.5886524916353</altitude>
+			<heading>110.2103715406433</heading>
+			<tilt>45.00000000013502</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>745.1471644473349</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_6E1D3A3EFB36DE155496</styleUrl>
+		<Point>
+			<coordinates>-123.3523698,43.201058,151.7582476807231</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0E5B627EF720A70CA497">
+		<name>China Cafe</name>
+		<LookAt>
+			<longitude>-123.0196998000933</longitude>
+			<latitude>44.95666750011559</latitude>
+			<altitude>50.43713085712139</altitude>
+			<heading>-142.3383106842283</heading>
+			<tilt>44.99999999994878</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>721.4486717195541</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0565FC254A36DE15549D</styleUrl>
+		<Point>
+			<coordinates>-123.0196998,44.95666749999999,50.49359067735168</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="008F7C165020A70E2F53">
+		<name>China City Cafe</name>
+		<LookAt>
+			<longitude>-123.0410395002802</longitude>
+			<latitude>44.90369009996976</latitude>
+			<altitude>103.0989658649595</altitude>
+			<heading>-74.20033945743268</heading>
+			<tilt>45.00000000018269</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>722.1730180547457</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_6E1D3A3EFB36DE155496</styleUrl>
+		<Point>
+			<coordinates>-123.0410395,44.9036901,103.2143364213334</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0BE505A4AD20A70EDB1E">
+		<name>Fortune Cookie</name>
+		<LookAt>
+			<longitude>-123.1359541999508</longitude>
+			<latitude>44.88390210016669</latitude>
+			<altitude>57.10148214902893</altitude>
+			<heading>123.2375820584291</heading>
+			<tilt>44.99999999993782</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>722.443361573678</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0A8C3E2FBA36DE15549E</styleUrl>
+		<Point>
+			<coordinates>-123.1359542,44.8839021,57.16536878983603</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0C7000FDBE20A70FF6D4">
+		<name>Cathay Broiler</name>
+		<LookAt>
+			<longitude>-122.4199835614841</longitude>
+			<latitude>44.01258586412508</latitude>
+			<altitude>1138.66368728079</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>796686.3091698289</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_04B9E915D636DE155495</styleUrl>
+		<Point>
+			<coordinates>-123.9254817,45.9932974,4.891607927341424</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0A9CDAAFFE213A95CDCC">
+		<name>Chungking Cafe </name>
+		<description><![CDATA[<div><span style="font-style: normal;"><span class="font" style="font-family: Arial;"><span class="size" style="font-size: 10pt;">327 E. Center Street</span></span></span><br></div>]]></description>
+		<gx:fid>0x80dcd63b74248cf3:0x5e5fd9411cefae2</gx:fid>
+		<LookAt>
+			<longitude>-117.9106628</longitude>
+			<latitude>33.8363569</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>859.7779826880944</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_F2C5C9FDD336DE155496</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>-117.9106628,33.8363569,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="01DCAFCAE2213A99112F">
+		<name>Man Fook Low</name>
+		<description><![CDATA[<div>962 So. San Pedro St.<br></div>]]></description>
+		<gx:mid>/g/11bw4hy7yc</gx:mid>
+		<gx:fid>0x80c2c6329672a489:0xb2117ce3bf94e997</gx:fid>
+		<LookAt>
+			<longitude>-118.2511548</longitude>
+			<latitude>34.0362663</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>857.5573320881541</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_1660779B7736DE155497</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>-118.2511548,34.0362663,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="08B31FF96B213A9DB07B">
+		<name>Sheng Haw Low Cafe</name>
+		<description><![CDATA[<div>1052 Third Ave<br></div>]]></description>
+		<gx:fid>0x80d954a877719af9:0x1a42240643e91c46</gx:fid>
+		<LookAt>
+			<longitude>-117.1623469</longitude>
+			<latitude>32.7164123</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>872.0219052748417</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_F2C5C9FDD336DE155496</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>-117.1623263647987,32.72658834534982,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0E07E43399213A9F3FD1">
+		<name>Pagoda Cafe</name>
+		<description><![CDATA[<div>911 Glenwood St<br></div>]]></description>
+		<gx:fid>0x80eae593ee824765:0x8c35c4dd69ad257b</gx:fid>
+		<LookAt>
+			<longitude>-119.2488956</longitude>
+			<latitude>35.7678052</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>837.8867380534407</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_482A0CC2EC36DE155497</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>-119.2488956,35.7678052,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0FA4F9BF8A213AA093D8">
+		<name>Royal Canton Cafe</name>
+		<description><![CDATA[<div>641 1st St.<br></div>]]></description>
+		<gx:fid>0x80dc0c3fbf88607d:0x17e2cdd21a47832f</gx:fid>
+		<LookAt>
+			<longitude>-117.2926095</longitude>
+			<latitude>33.0374095</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>868.5469229640468</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_F2C5C9FDD336DE155496</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>-117.2926095,33.0374095,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="054F76B285213AA1C7C6">
+		<name>Ming&apos;s</name>
+		<description><![CDATA[<div>17812 Bellflower Blvd.<br></div>]]></description>
+		<gx:mid>/g/11bw4bgjn3</gx:mid>
+		<gx:fid>0x80dd3297ee7eb453:0xf1fe6fdc0fb13c25</gx:fid>
+		<LookAt>
+			<longitude>-118.1248403</longitude>
+			<latitude>33.8708284</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>859.3958167579166</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_482A0CC2EC36DE155497</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>-118.1248403,33.8708284,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="069300CB48213AA34BDF">
+		<name>Holly Cafe</name>
+		<description><![CDATA[<div>1429 Market St.<br></div>]]></description>
+		<gx:mid>/g/11rhmkhxcz</gx:mid>
+		<gx:fid>0x54d2ece1d90010bd:0x91f47b8f215463f3</gx:fid>
+		<LookAt>
+			<longitude>-122.390885</longitude>
+			<latitude>40.584862</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>779.2441669716077</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_482A0CC2EC36DE155497</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>-122.390885,40.584862,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0E04424F6A213AA41BDA">
+		<name>Toa Lee Yon</name>
+		<description><![CDATA[<div>816 Washington St.<br></div>]]></description>
+		<gx:mid>/g/11c1_c96vm</gx:mid>
+		<gx:fid>0x808580f4abd15ce5:0x33ead329f2f3831f</gx:fid>
+		<LookAt>
+			<longitude>-122.406882</longitude>
+			<latitude>37.795288</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>813.8873757085596</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_7F08B24A1736DE155497</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>-122.406882,37.795288,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="064946D2DB213AA506EF">
+		<name>Ednaray Restaurant</name>
+		<description><![CDATA[<div>406 N Santa Cruz Ave.<br></div>]]></description>
+		<gx:mid>/g/11c2gs3r1y</gx:mid>
+		<gx:fid>0x808e35ee147e9d01:0xfb01be0c1ab59608</gx:fid>
+		<LookAt>
+			<longitude>-121.9802068</longitude>
+			<latitude>37.22939149999999</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>820.6884118066024</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_7F08B24A1736DE155497</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>-121.9802068,37.2293915,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0ADA5DFCF5213AA79F0B">
+		<name>Yee Hung Guey Cafe</name>
+		<description><![CDATA[<div>956 N Hill St.<br></div>]]></description>
+		<gx:mid>/g/11c22081jg</gx:mid>
+		<gx:fid>0x80c2c6590be26a95:0xc9880ebd492f8c63</gx:fid>
+		<LookAt>
+			<longitude>-118.2377462</longitude>
+			<latitude>34.0658857</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>857.2274144698067</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_05FE42972D36DE155498</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>-118.2377462,34.0658857,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0FCB91814C213AB93D27">
+		<name>Woo&apos;s Garden</name>
+		<description><![CDATA[<div>11035 S .Crenshaw Blvd.<br></div>]]></description>
+		<gx:fid>0x80c2b66d9a7a8d79:0x6f6b823ccdfeea9</gx:fid>
+		<LookAt>
+			<longitude>-118.3264324</longitude>
+			<latitude>33.93544440000001</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>858.6786095721044</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_482A0CC2EC36DE155497</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>-118.3267263878279,33.93482243208476,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="033D8855D5213ABAD905">
+		<name>Tuey Far Ven Cafe</name>
+		<description><![CDATA[<div>2617 E. Florence Ave.<br></div>]]></description>
+		<gx:fid>0x80c2c93ebe30fae1:0x9d72045b1e4ee7e5</gx:fid>
+		<LookAt>
+			<longitude>-118.2246616</longitude>
+			<latitude>33.9741482</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>858.248487512258</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_05FE42972D36DE155498</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>-118.2246616,33.9741482,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0CFD8EB974213ABC2636">
+		<name>Young China Cafe</name>
+		<description><![CDATA[<div>5122 Whittier Blvd.<br></div>]]></description>
+		<gx:mid>/g/11b8z4cqw5</gx:mid>
+		<gx:fid>0x80c2cf09d8feada9:0xd3a39bcdb73d2e2b</gx:fid>
+		<LookAt>
+			<longitude>-118.1591815</longitude>
+			<latitude>34.0205683</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>857.7320915505809</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_482A0CC2EC36DE155497</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>-118.1591815,34.0205683,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0CADE7ED18213ABECAB2">
+		<name>Lem&apos;s Cafe</name>
+		<description><![CDATA[<div>320 1st St.&nbsp;<br></div>]]></description>
+		<gx:mid>/g/11c2b229k1</gx:mid>
+		<gx:fid>0x80c2c647deaad801:0xc9054a194ee3b93e</gx:fid>
+		<LookAt>
+			<longitude>-118.2405989</longitude>
+			<latitude>34.0498094</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>857.406510067609</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_482A0CC2EC36DE155497</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>-118.2405989,34.0498094,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0679431703213AC0BE4A">
+		<name>Tao Tao Cafe</name>
+		<description><![CDATA[<div>175 S. Murphy Ave.<br></div>]]></description>
+		<gx:mid>/g/11c159y0ks</gx:mid>
+		<gx:fid>0x808fb65c4dc35385:0x33893de896647d39</gx:fid>
+		<LookAt>
+			<longitude>-122.03058</longitude>
+			<latitude>37.3765069</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>818.9278984426892</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_05FE42972D36DE155498</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>-122.03058,37.3765069,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="001269F2C9213AC21E29">
+		<name>The Polynesian Restaurant</name>
+		<description><![CDATA[<div>Herschel Ave &amp; Silverado St<br></div>]]></description>
+		<gx:mid>/g/11gdzt71kz</gx:mid>
+		<gx:fid>0x80dc03fcad819be1:0x36d470fb7b536481</gx:fid>
+		<LookAt>
+			<longitude>-117.2727949</longitude>
+			<latitude>32.8453906</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>870.6289787019984</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_482A0CC2EC36DE155497</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>-117.2727949,32.8453906,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0ABB51148F213AC400CA">
+		<name>Yuet Sue&apos;s Tea House</name>
+		<description><![CDATA[<div>2332 S. Mooney Blvd.<br></div>]]></description>
+		<gx:mid>/g/11b8v7pft0</gx:mid>
+		<gx:fid>0x80952f377fd9b917:0xd9d8b4bb90b4a2a</gx:fid>
+		<LookAt>
+			<longitude>-119.313446</longitude>
+			<latitude>36.3095368</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>831.5746830283787</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_482A0CC2EC36DE155497</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>-119.313446,36.3095368,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0A4D8947BA213AC57888">
+		<name>Lim&apos;s Cafe</name>
+		<description><![CDATA[<div>592 N Market St<br></div>]]></description>
+		<gx:mid>/g/11bw43jpx7</gx:mid>
+		<gx:fid>0x54d2ed307e16da0b:0x2ccc18f4910ec7c7</gx:fid>
+		<LookAt>
+			<longitude>-122.3861163</longitude>
+			<latitude>40.5980927</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>779.0755491943233</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_F2C5C9FDD336DE155496</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>-122.3861163,40.5980927,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0EB80DE752213ACA43E9">
+		<name>Sampan Cantonese Cuisine</name>
+		<description><![CDATA[<div>420 S. Brookhurst St.<br></div>]]></description>
+		<gx:mid>/g/11c1db25gw</gx:mid>
+		<gx:fid>0x80dd29bcea1a8235:0x876adc01ef14cba2</gx:fid>
+		<LookAt>
+			<longitude>-117.9584908</longitude>
+			<latitude>33.826877</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>859.8830258379569</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_F2C5C9FDD336DE155496</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>-117.9584908,33.826877,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0FA13CC21B213ACB2CB5">
+		<name>Sheng Haw Low Restaurant</name>
+		<description><![CDATA[<div>5801 University Ave.<br></div>]]></description>
+		<gx:mid>/g/11bw3zvk3c</gx:mid>
+		<gx:fid>0x80d956a43581cb95:0xd0b76f583c8ce171</gx:fid>
+		<LookAt>
+			<longitude>-117.072099</longitude>
+			<latitude>32.748746</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>871.67313316692</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_7F08B24A1736DE155497</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>-117.072099,32.748746,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0B0483610B213ACC1E90">
+		<name>Ace Chop Suey</name>
+		<description><![CDATA[<div>7001 E.14th St.<br></div>]]></description>
+		<gx:fid>0x808f86f5241d363b:0x3a327b1877b025c5</gx:fid>
+		<LookAt>
+			<longitude>-122.2226109</longitude>
+			<latitude>37.7760634</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>814.1197029338458</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_482A0CC2EC36DE155497</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>-122.2226109,37.7760634,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0D553CDB45213ACD2834">
+		<name>Asia Chop Suey</name>
+		<description><![CDATA[<div>859 Hawthorne Blvd.<br></div>]]></description>
+		<gx:fid>0x80c2b4fb526acc4d:0xc3dfbfc0c8bb9fae</gx:fid>
+		<LookAt>
+			<longitude>-118.3527083</longitude>
+			<latitude>33.86653719999999</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>859.4434079803042</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_05FE42972D36DE155498</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>-118.3527083,33.8665372,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0BC19B9F7F213ACE22C2">
+		<name>Shanghai Low Cafe</name>
+		<description><![CDATA[<div>1815 4th St<br></div>]]></description>
+		<gx:fid>0x54d1557f70c83ea3:0xf8e5465ea34d1edc</gx:fid>
+		<LookAt>
+			<longitude>-124.1520756</longitude>
+			<latitude>40.8048913</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>776.4348649507671</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_05FE42972D36DE155498</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>-124.1520756,40.8048913,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0F3F1F7E6621D76492D3">
+		<name>Western Steak House</name>
+		<gx:mid>/g/11c23x6r83</gx:mid>
+		<gx:fid>0x873c02a20d9ceced:0x5fd7e76fc3dcac37</gx:fid>
+		<LookAt>
+			<longitude>-107.8813732</longitude>
+			<latitude>37.27097880000001</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>820.1912807804314</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_33E6F6415B36DE155498</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>-107.8813732,37.2709788,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0D42EC83C921D766FFB4">
+		<name>Far East Cafe</name>
+		<gx:mid>/g/11bw42fbv8</gx:mid>
+		<gx:fid>0x87471c476f94dd19:0x78a9fddfa2b99ed4</gx:fid>
+		<LookAt>
+			<longitude>-108.5471513</longitude>
+			<latitude>39.0777056</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>798.188645869336</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_33E6F6415B36DE155498</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>-108.5471513,39.0777056,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0EF58404DD21D76844E2">
+		<name>Nanking Restaurant</name>
+		<gx:mid>/g/11c2fnvxm_</gx:mid>
+		<gx:fid>0x89b7b7c87bd8e717:0x32203f5bb714aab</gx:fid>
+		<LookAt>
+			<longitude>-77.0452913</longitude>
+			<latitude>38.90944810000001</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>800.2707270858273</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_33E6F6415B36DE155498</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>-77.0452913,38.9094481,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="040C226AF821D7699D4F">
+		<name>Peking Restaurant</name>
+		<gx:mid>/g/11gg9gm263</gx:mid>
+		<gx:fid>0x89b7c9a313865679:0x43da4b9826b64ce9</gx:fid>
+		<LookAt>
+			<longitude>-77.075368</longitude>
+			<latitude>38.963658</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>799.6006438869604</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_33E6F6415B36DE155498</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>-77.075368,38.963658,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0606934F7B21D76B0905">
+		<name>Sampan Cafe</name>
+		<gx:mid>/g/11c5l8fkfq</gx:mid>
+		<gx:fid>0x89b7b83238215ebd:0x8af1684ee66cb518</gx:fid>
+		<LookAt>
+			<longitude>-76.99672</longitude>
+			<latitude>38.885242</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>800.569711700123</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_33E6F6415B36DE155498</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>-76.99672,38.885242,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0B020CF9E521D76C3028">
+		<name>The Sun</name>
+		<gx:mid>/g/11bw42m7jz</gx:mid>
+		<gx:fid>0x89b7b7d975812f7b:0xd0676d6cb9d2dcd9</gx:fid>
+		<LookAt>
+			<longitude>-77.04207649999999</longitude>
+			<latitude>38.9235097</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>800.0969798190218</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_33E6F6415B36DE155498</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>-77.04207649999999,38.9235097,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="00013040FF21D76D3A6D">
+		<name>Gung Ho Restaurant</name>
+		<gx:fid>0x89b7b7b1f770d0ef:0xef97e041368a823d</gx:fid>
+		<LookAt>
+			<longitude>-77.0505349</longitude>
+			<latitude>38.8986756</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>800.4038020728127</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_33E6F6415B36DE155498</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>-77.0505349,38.8986756,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0E4DFDDF5A21D76EA2AC">
+		<name>Chin&apos;s Restaurant</name>
+		<gx:mid>/g/11bw42zgsp</gx:mid>
+		<gx:fid>0x89b7b7d4725e798d:0xb10fa97394701b6b</gx:fid>
+		<LookAt>
+			<longitude>-77.05237620000001</longitude>
+			<latitude>38.9240658</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>800.0901076010823</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_33E6F6415B36DE155498</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>-77.0523762,38.9240658,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="02C820CAD621D76FB450">
+		<name>Tai Tung Restaurant</name>
+		<gx:fid>0x89b7b7f2bf78deb9:0x379b3548a2ff7d90</gx:fid>
+		<LookAt>
+			<longitude>-77.0210103</longitude>
+			<latitude>38.9056459</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>800.3176996091664</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_33E6F6415B36DE155498</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>-77.0210103,38.9056459,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="08D858CB4B21D7714769">
+		<name>Chinese Lantern</name>
+		<gx:mid>/g/11c2ghhlt3</gx:mid>
+		<gx:fid>0x88e6d9fb0e3d33cd:0xa66d545baa30525d</gx:fid>
+		<LookAt>
+			<longitude>-80.9944529</longitude>
+			<latitude>29.19778</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>908.2504008716911</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_33E6F6415B36DE155498</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>-80.9944529,29.19778,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0F97F5C50221D772B903">
+		<name>Limehouse Rstaurant</name>
+		<gx:mid>/g/11c1xz8pky</gx:mid>
+		<gx:fid>0x88d9ad19bcaeabaf:0xea5782a4f1754733</gx:fid>
+		<LookAt>
+			<longitude>-80.124387</longitude>
+			<latitude>25.9301749</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>938.7100543355176</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_33E6F6415B36DE155498</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>-80.124387,25.9301749,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0EF72FEC5B21D7775511">
+		<name>Eng&apos;s</name>
+		<gx:fid>0x88f504429c0470cb:0x6c88928e26acd5e6</gx:fid>
+		<LookAt>
+			<longitude>-84.3838518</longitude>
+			<latitude>33.7809505</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>860.3915830415688</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_33E6F6415B36DE155498</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>-84.3838518,33.7809505,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="063D1C597A21D779ADCC">
+		<name>George&apos;s Restaurant</name>
+		<gx:fid>0x54a1caa432c448bf:0x4e2f02a613d0d8cd</gx:fid>
+		<LookAt>
+			<longitude>-117.02855</longitude>
+			<latitude>46.40393690000001</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>701.4460249412692</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_33E6F6415B36DE155498</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>-117.02855,46.4039369,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0423249C2421D77AEC3F">
+		<name>Hong Kong Cuisine</name>
+		<gx:mid>/g/11c3q3lwgq</gx:mid>
+		<gx:fid>0x53554f5cb4fe52f7:0xa816ce0c53343349</gx:fid>
+		<LookAt>
+			<longitude>-112.4517698</longitude>
+			<latitude>42.8840261</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>749.3581885847017</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_33E6F6415B36DE155498</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>-112.4517698,42.8840261,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0B631D198A21D7837939">
+		<name>Golden Dragon</name>
+		<gx:fid>0x54aef8e53248dea7:0x624352136576c105</gx:fid>
+		<LookAt>
+			<longitude>-116.2035244</longitude>
+			<latitude>43.61393949999999</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>739.6311042029872</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_33E6F6415B36DE155498</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>-116.2035244,43.6139395,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0092896DAF21D785B574">
+		<name>Shanghai Cafe</name>
+		<gx:mid>/g/11b8_q95gn</gx:mid>
+		<gx:fid>0x53554f199bc2c8b1:0x57ff4fa88f778d06</gx:fid>
+		<LookAt>
+			<longitude>-112.4467064</longitude>
+			<latitude>42.8642856</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>749.6196902265854</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_33E6F6415B36DE155498</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>-112.4467064,42.8642856,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="008064AB0221D787E9AA">
+		<name>Hong Kong Restaurant</name>
+		<gx:mid>/g/11c264f9pn</gx:mid>
+		<gx:fid>0x880cd0a7bb83168d:0xfdbfba0e91e522c9</gx:fid>
+		<LookAt>
+			<longitude>-88.2576394</longitude>
+			<latitude>40.1305757</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>785.0095948721087</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_33E6F6415B36DE155498</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>-88.2576394,40.1305757,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="09B3BBD0CF21D78A4AC9">
+		<name>Jimmy Wong&apos;s</name>
+		<gx:mid>/g/11c1ykkb_j</gx:mid>
+		<gx:fid>0x880e2ca28e5a6709:0x6be0341c157846be</gx:fid>
+		<LookAt>
+			<longitude>-87.62654190000001</longitude>
+			<latitude>41.8763133</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>762.6001392693818</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_33E6F6415B36DE155498</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>-87.62654189999999,41.8763133,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="079BD899D021D78B9D75">
+		<name>Rice Bowl</name>
+		<gx:fid>0x880fd3cd5c5743b1:0xdbba09eb008c7327</gx:fid>
+		<LookAt>
+			<longitude>-87.6569822</longitude>
+			<latitude>41.9646763</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>761.447815348422</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_33E6F6415B36DE155498</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>-87.6569822,41.9646763,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="087569B5E021D78C83D0">
+		<name>South Pacific Restaurant</name>
+		<gx:fid>0x880e2ca54cf1fbd9:0x9fb7934c6f8d78f</gx:fid>
+		<LookAt>
+			<longitude>-87.6288622</longitude>
+			<latitude>41.88448440000001</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>762.493653403555</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_33E6F6415B36DE155498</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>-87.6288622,41.8844844,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0E863D584921D78E36EA">
+		<name>Young Sing Restaurant</name>
+		<gx:mid>/g/11c3q3g9pq</gx:mid>
+		<gx:fid>0x880fd30c18f8781b:0x5c957b82e09db8fb</gx:fid>
+		<LookAt>
+			<longitude>-87.64281269999999</longitude>
+			<latitude>41.9291293</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>761.9115821550214</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_33E6F6415B36DE155498</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>-87.64281269999999,41.9291293,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="09EA1EA98021D7941F5B">
+		<name>Won Kow</name>
+		<gx:mid>/g/11bw3zm80p</gx:mid>
+		<gx:fid>0x880e2c6397cdbc67:0x2cbebaeb820a4eec</gx:fid>
+		<LookAt>
+			<longitude>-87.63167849999999</longitude>
+			<latitude>41.85185639999999</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>762.918774346966</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_33E6F6415B36DE155498</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>-87.63167849999999,41.8518564,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="054350D34021D797D643">
+		<name>Young Sing</name>
+		<gx:mid>/g/11c2f8_kgd</gx:mid>
+		<gx:fid>0x880fd309af59521f:0x330791a322303d94</gx:fid>
+		<LookAt>
+			<longitude>-87.6453619</longitude>
+			<latitude>41.9330795</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>761.8600592133389</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_33E6F6415B36DE155498</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>-87.6453619,41.9330795,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="08BD9BE57F21D79BFC41">
+		<name>Lotus Garden</name>
+		<gx:fid>0x886b5221298f4889:0xb0ce9b2f9d8ef4a5</gx:fid>
+		<LookAt>
+			<longitude>-86.1188557</longitude>
+			<latitude>39.83688009999999</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>788.7117502223052</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_33E6F6415B36DE155498</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>-86.1188557,39.83688009999999,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0075FF5C4221D79D3C7F">
+		<name>24/66 Restaurant</name>
+		<gx:mid>/g/11hb3r4p9n</gx:mid>
+		<gx:fid>0x87a2bd97501c15ab:0xc795f8c892c5f68a</gx:fid>
+		<LookAt>
+			<longitude>-98.116851</longitude>
+			<latitude>39.4812532</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>793.1678517464962</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_33E6F6415B36DE155498</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>-98.116851,39.4812532,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0A09786B7321D79E9E6E">
+		<name>Kim&apos;s Steak House</name>
+		<gx:fid>0x87bcc8a7bd8d6269:0xf174de5e5bbc038e</gx:fid>
+		<LookAt>
+			<longitude>-97.6125558</longitude>
+			<latitude>38.81098920000001</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>801.4859881868473</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_33E6F6415B36DE155498</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>-97.6125558,38.8109892,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="052D954F1E21D7A051DA">
+		<name>Albert&apos;s</name>
+		<gx:fid>0x87bafcadc7423f0b:0xa328f7a6cab2fd0e</gx:fid>
+		<LookAt>
+			<longitude>-97.26111259999999</longitude>
+			<latitude>37.6786428</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>815.2956380862281</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_33E6F6415B36DE155498</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>-97.26111259999999,37.6786428,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="015226768C21D7A34123">
+		<name>Bob Lee&apos;s Lantern House</name>
+		<gx:mid>/g/11c3q4qk_f</gx:mid>
+		<gx:fid>0x89e37a783133d083:0xa8c9ebf8e2bed9d8</gx:fid>
+		<LookAt>
+			<longitude>-71.0605693</longitude>
+			<latitude>42.35074119999999</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>756.3932401297898</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_33E6F6415B36DE155498</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>-71.0605693,42.35074119999999,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="05C14936C121D7A504C9">
+		<name>Gamsun</name>
+		<gx:mid>/g/11b8vffshc</gx:mid>
+		<gx:fid>0x89e37a7836318287:0x6f4d01334e5ac41</gx:fid>
+		<LookAt>
+			<longitude>-71.06029269999999</longitude>
+			<latitude>42.3506127</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>756.3949279095525</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_33E6F6415B36DE155498</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>-71.06029269999999,42.3506127,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="092C317D0821D7A64B7A">
+		<name>Lichee Garden</name>
+		<gx:mid>/g/11c5lh7h6s</gx:mid>
+		<gx:fid>0x89e37a78372ea535:0xb5ce25fa233196ef</gx:fid>
+		<LookAt>
+			<longitude>-71.0605975</longitude>
+			<latitude>42.3508386</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>756.3919608297515</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_33E6F6415B36DE155498</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>-71.0605975,42.3508386,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="04D4888B0021D7A7DDE0">
+		<name>China Royal</name>
+		<gx:fid>0x89e4f8e647866a15:0x3815a8c7c3892522</gx:fid>
+		<LookAt>
+			<longitude>-71.1554915</longitude>
+			<latitude>41.7024096</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>764.8629769696122</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_33E6F6415B36DE155498</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>-71.1554915,41.7024096,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0F9A08EBEB21E1A59E3D">
+		<name>Mark You Restaurant</name>
+		<gx:mid>/g/11b8v6_pnb</gx:mid>
+		<gx:fid>0x89e4f9239f61f77d:0x195fe8ed95331a32</gx:fid>
+		<LookAt>
+			<longitude>-71.136241</longitude>
+			<latitude>41.6926971</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>764.9891599852476</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_33E6F6415B36DE155498</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>-71.136241,41.6926971,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0AC114EC5921E1B92016">
+		<name>Cathay House (approximate)</name>
+		<gx:mid>/g/1vc82v27</gx:mid>
+		<gx:fid>0x89e3a41b9a1854e3:0x62736a3f7e6e9254</gx:fid>
+		<LookAt>
+			<longitude>-71.2993127</longitude>
+			<latitude>42.6309712</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>752.7040856645679</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_33E6F6415B36DE155498</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>-71.2993127,42.6309712,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0792880F1C21E1BAFEC5">
+		<name>Tai Hong Restaurant</name>
+		<gx:mid>/g/11bw4hwgf3</gx:mid>
+		<gx:fid>0x89e36d2d3b2466d3:0xec8f1887a29f578</gx:fid>
+		<LookAt>
+			<longitude>-70.9644089</longitude>
+			<latitude>42.4873088</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>754.5974787504952</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_33E6F6415B36DE155498</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>-70.9644089,42.4873088,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0CE708A76521E1BCC589">
+		<name>Ming Chow&apos;s Restaurant</name>
+		<gx:mid>/g/11c22g_8yq</gx:mid>
+		<gx:fid>0x89e371d14e02a7f3:0x7f97b46720265e87</gx:fid>
+		<LookAt>
+			<longitude>-71.00856639999999</longitude>
+			<latitude>42.3871416</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>755.9149962001131</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_33E6F6415B36DE155498</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>-71.00856639999999,42.3871416,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="04B1F144E821E1BE1D34">
+		<name>Cathay City</name>
+		<gx:mid>/g/11csh_v9y2</gx:mid>
+		<gx:fid>0x89e482f983a7cb31:0xe0fbbc57aeeaead4</gx:fid>
+		<LookAt>
+			<longitude>-71.04437949999999</longitude>
+			<latitude>42.1669012</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>758.8042200335123</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_33E6F6415B36DE155498</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>-71.04437949999999,42.1669012,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0DEAAADA8821E1BFF3AF">
+		<name>Ho Sai Gai</name>
+		<gx:mid>/g/11c4k9mfhn</gx:mid>
+		<gx:fid>0x89e378da49d65691:0x8320b4d138489011</gx:fid>
+		<LookAt>
+			<longitude>-71.152289</longitude>
+			<latitude>42.3037437</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>757.010289009459</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_33E6F6415B36DE155498</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>-71.152289,42.3037437,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="05BFCCCB8721E1C14A67">
+		<name>The Chin&apos;s</name>
+		<gx:mid>/g/11c217f4dz</gx:mid>
+		<gx:fid>0x89e37ffe05247237:0x75aa59b53f5db436</gx:fid>
+		<LookAt>
+			<longitude>-71.1871989</longitude>
+			<latitude>42.2223926</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>758.0772480610389</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_33E6F6415B36DE155498</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>-71.1871989,42.2223926,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="087845C50A21E1C2A686">
+		<name>Jimmy Wu&apos;s New China Inn</name>
+		<gx:fid>0x89c804e83919e697:0x32d93efda7c65716</gx:fid>
+		<LookAt>
+			<longitude>-76.6172029</longitude>
+			<latitude>39.3171449</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>795.2142353130041</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_33E6F6415B36DE155498</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>-76.6172029,39.3171449,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="004547EA3421E1C452F8">
+		<name>New Sea Girt Inn</name>
+		<gx:mid>/g/11g9grjj55</gx:mid>
+		<gx:fid>0x89b7fe6ec870b0c1:0x8428c9041eb52a9f</gx:fid>
+		<LookAt>
+			<longitude>-76.53265329999999</longitude>
+			<latitude>39.1700362</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>797.0432748934307</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_33E6F6415B36DE155498</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>-76.53265329999999,39.1700362,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="016FD8D56921E1C59EC3">
+		<name>Dragon Seed Inn (Approximate)</name>
+		<gx:mid>/m/0j_r1</gx:mid>
+		<gx:fid>0x89a36872c91a5f45:0x26bb876ddf012ef7</gx:fid>
+		<LookAt>
+			<longitude>-70.7439811</longitude>
+			<latitude>43.1003067</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>746.4876951650635</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_33E6F6415B36DE155498</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>-70.7439811,43.1003067,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0EF227DF3E21E1C73276">
+		<name>Bill Woo Chop Suey</name>
+		<gx:mid>/g/11bw4402qj</gx:mid>
+		<gx:fid>0x8824d5db7a64b3c5:0xbd77fa6cdb0ac874</gx:fid>
+		<LookAt>
+			<longitude>-82.934631</longitude>
+			<latitude>42.4040153</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>755.6932051441738</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_33E6F6415B36DE155498</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>-82.934631,42.4040153,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0DA13AA9F121E1C86C2B">
+		<name>Evergreen Gardens</name>
+		<gx:mid>/g/11c5ck10t1</gx:mid>
+		<gx:fid>0x8824ca026cc2f03f:0x89707032927f0579</gx:fid>
+		<LookAt>
+			<longitude>-83.24383329999999</longitude>
+			<latitude>42.4296459</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>755.3561940388146</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_33E6F6415B36DE155498</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>-83.24383329999999,42.4296459,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0095F29C6D21E1C99537">
+		<name>Pekin Pavilion</name>
+		<gx:mid>/g/11c5flk32d</gx:mid>
+		<gx:fid>0x8824d35a28b7b9d9:0xe6ce7de6aeb8a7f6</gx:fid>
+		<LookAt>
+			<longitude>-82.998836</longitude>
+			<latitude>42.349111</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>756.4146516824871</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_33E6F6415B36DE155498</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>-82.998836,42.349111,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="025A5B5D7021E1CB04EB">
+		<name>Kin Chu Cafe and El Morocco Bar</name>
+		<gx:mid>/g/11c1_d1d0t</gx:mid>
+		<gx:fid>0x52b33291448f46a5:0xe46a6e510906c304</gx:fid>
+		<LookAt>
+			<longitude>-93.2754331</longitude>
+			<latitude>44.9773215</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>721.1660716808636</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_33E6F6415B36DE155498</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>-93.2754331,44.9773215,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0B6683FE5921E1CD6555">
+		<name>Yut Hing Cafe</name>
+		<gx:mid>/g/11c1zwh6zg</gx:mid>
+		<gx:fid>0x87f62825bffc2b3d:0xb534ece55a71795b</gx:fid>
+		<LookAt>
+			<longitude>-93.2294155</longitude>
+			<latitude>44.94860499999999</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>721.5588908840018</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_33E6F6415B36DE155498</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>-93.2294155,44.948605,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0F70D2DF3721E1CF8CBD">
+		<name>Chu Wah Restaurant and Lounge</name>
+		<gx:mid>/g/1vcjmsv_</gx:mid>
+		<gx:fid>0x87d8b3589104bb1d:0xc015ceec27b8fd3b</gx:fid>
+		<LookAt>
+			<longitude>-90.2250112</longitude>
+			<latitude>38.6355848</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>803.6452720699989</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_33E6F6415B36DE155498</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>-90.2250112,38.6355848,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="05E3EA322821E1D21700">
+		<name>The Oriental</name>
+		<gx:fid>0x8856a02f860e5fe3:0xda9a0d9d525ea486</gx:fid>
+		<LookAt>
+			<longitude>-80.8438144</longitude>
+			<latitude>35.2281632</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>844.1002565266862</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_33E6F6415B36DE155498</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>-80.8438144,35.2281632,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="07ADC20FFB21E1D32850">
+		<name>Canton Cafe</name>
+		<gx:mid>/g/11b8v57t6f</gx:mid>
+		<gx:fid>0x89ac5f6f80e9a3b5:0x49825df5ebb2e5ae</gx:fid>
+		<LookAt>
+			<longitude>-78.6454146</longitude>
+			<latitude>35.7809457</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>837.7345094153685</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_33E6F6415B36DE155498</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>-78.6454146,35.7809457,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0A7EB1324C21E1D5C386">
+		<name>Oriental Restaurant</name>
+		<gx:fid>0x89ace46e0fc352c7:0x5e80ef183553fee7</gx:fid>
+		<LookAt>
+			<longitude>-78.89972449999999</longitude>
+			<latitude>35.9951625</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>835.246692495125</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_33E6F6415B36DE155498</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>-78.89972449999999,35.9951625,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="02AAC26ACC21E1D78368">
+		<name>China House</name>
+		<gx:fid>0x89e24f25d1af87bf:0xa7635055da828a83</gx:fid>
+		<LookAt>
+			<longitude>-71.4630952</longitude>
+			<latitude>42.993225</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>747.9101349788671</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_33E6F6415B36DE155498</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>-71.4630952,42.993225,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="047B52137821E1DC334C">
+		<name>Hawaiin Garden Motor Lodge (App)</name>
+		<gx:mid>/m/0xk16</gx:mid>
+		<gx:fid>0x89e2e64dce33d097:0x3896735743830cf4</gx:fid>
+		<LookAt>
+			<longitude>-70.86470355</longitude>
+			<latitude>42.883944</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>17033.86855996097</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_33E6F6415B36DE155498</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>-70.8655074,42.8909615,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="04AFF4D15F21E1DDBE83">
+		<name>New China Inn</name>
+		<gx:mid>/g/11ggr9knt4</gx:mid>
+		<gx:fid>0x8702dde7e5c3e505:0x7500cfbce3a5781b</gx:fid>
+		<LookAt>
+			<longitude>-103.1960904</longitude>
+			<latitude>34.3983335</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>853.5086030151654</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_33E6F6415B36DE155498</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>-103.1960904,34.3983335,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="015094739121E1DEEC4D">
+		<name>Chin&apos;s Pagoda Restaurant</name>
+		<gx:fid>0x8830fc4e79867bf9:0xdd01559ba42f30e2</gx:fid>
+		<LookAt>
+			<longitude>-81.5654526</longitude>
+			<latitude>41.502776</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>767.452394968967</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_33E6F6415B36DE155498</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>-81.5654526,41.502776,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0BD897385221E1E029F6">
+		<name>China Gate</name>
+		<gx:mid>/g/11c5k6f5zg</gx:mid>
+		<gx:fid>0x8830fdbc54c15067:0x460fb1bd63de5d2e</gx:fid>
+		<LookAt>
+			<longitude>-81.54052489999999</longitude>
+			<latitude>41.5017772</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>767.4653280991263</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_33E6F6415B36DE155498</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>-81.54052489999999,41.5017772,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="03C3540EAF21E1E468E2">
+		<name>Oriental Terrace Rest (approximate)</name>
+		<gx:mid>/g/1td65_r6</gx:mid>
+		<gx:fid>0x8848001a8ed175ad:0x61d7db4c953d4109</gx:fid>
+		<LookAt>
+			<longitude>-82.20168609999999</longitude>
+			<latitude>39.70995549999999</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>790.3055210836069</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_33E6F6415B36DE155498</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>-82.20168609999999,39.7099555,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="01F165C60721E1E5B458">
+		<name>Chiam Restaurant</name>
+		<gx:fid>0x8830edd1629ed855:0x14a25c9556adb0fd</gx:fid>
+		<LookAt>
+			<longitude>-81.7861566</longitude>
+			<latitude>41.43170440000001</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>768.3721255621695</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_33E6F6415B36DE155498</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>-81.7861566,41.4317044,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="04691D8B5C21E1E7ACC8">
+		<name>Golden Lily Restaurant</name>
+		<gx:mid>/g/11bw4dgp57</gx:mid>
+		<gx:fid>0x883c79ee57f8c7a7:0x390cfc09e3b39702</gx:fid>
+		<LookAt>
+			<longitude>-83.66411979999999</longitude>
+			<latitude>41.59934459999999</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>766.200917420286</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_33E6F6415B36DE155498</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>-83.66411979999999,41.59934459999999,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="00F51528E621E1E97378">
+		<name>Chinese Village</name>
+		<gx:mid>/g/11bw4jsztz</gx:mid>
+		<gx:fid>0x5495a107a7667813:0xfac49d5447e19c40</gx:fid>
+		<LookAt>
+			<longitude>-122.5787136</longitude>
+			<latitude>45.5186786</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>713.7299661303034</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_33E6F6415B36DE155498</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>-122.5787136,45.5186786,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0341DD1A4221E1EA41F4">
+		<name>Golden Dragon Restaurant</name>
+		<gx:fid>0x54950a06e67bfca1:0xb7abb1963a902d5b</gx:fid>
+		<LookAt>
+			<longitude>-122.6732444</longitude>
+			<latitude>45.52185250000001</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>713.6861980324733</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_33E6F6415B36DE155498</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>-122.6732444,45.5218525,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="03ECC2E0B121E1EB7AD2">
+		<name>Hi Hat Restaurant</name>
+		<gx:fid>0x54950cbde282feff:0x750a5e4842da074e</gx:fid>
+		<LookAt>
+			<longitude>-122.7394487</longitude>
+			<latitude>45.4435876</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>714.7648918762193</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_33E6F6415B36DE155498</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>-122.7394487,45.4435876,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0BB2E9A14821E1EC8966">
+		<name>Lotus Garden</name>
+		<gx:fid>0x549509f63f4021f1:0x40c9c85610a1c4ae</gx:fid>
+		<LookAt>
+			<longitude>-122.6943311</longitude>
+			<latitude>45.5232169</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>713.6673823391382</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_33E6F6415B36DE155498</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>-122.6943311,45.5232169,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="08D442D45D21E1ED5CF5">
+		<name>New Cathay</name>
+		<gx:mid>/g/11bw4h2jht</gx:mid>
+		<gx:fid>0x5495a04d0b9f633f:0x68c29458d96362a6</gx:fid>
+		<LookAt>
+			<longitude>-122.5783664</longitude>
+			<latitude>45.5050767</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>713.9175139163926</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_33E6F6415B36DE155498</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>-122.5783664,45.50507669999999,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="09283FC53221E1EE5427">
+		<name>Republic Cafe</name>
+		<gx:mid>/g/11cpgrbkkq</gx:mid>
+		<gx:fid>0x54950a00936bf3f7:0x167c13910901d14f</gx:fid>
+		<LookAt>
+			<longitude>-122.6742641</longitude>
+			<latitude>45.52493680000001</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>713.643663617319</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_33E6F6415B36DE155498</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>-122.6742641,45.5249368,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="08370A1D7F21E1F16044">
+		<name>Silk Hat Cafe</name>
+		<gx:mid>/g/1tc_8cl9</gx:mid>
+		<gx:fid>0x54950a0af7a1b427:0xe2a46d30cedc4d40</gx:fid>
+		<LookAt>
+			<longitude>-122.6618092</longitude>
+			<latitude>45.514246</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>713.7910883854153</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_33E6F6415B36DE155498</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>-122.6618092,45.514246,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0740A4AEB421E1F26AB6">
+		<name>Tai Ping Terrace</name>
+		<gx:mid>/g/11bw42qhw9</gx:mid>
+		<gx:fid>0x54950cbd33e94deb:0xcc1be889e852b421</gx:fid>
+		<LookAt>
+			<longitude>-122.7330351</longitude>
+			<latitude>45.44484689999999</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>714.7475450176544</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_33E6F6415B36DE155498</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>-122.7330351,45.44484689999999,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="011766632621E1F46978">
+		<name>Tea Garden Cafe</name>
+		<gx:mid>/g/11bw41lhjf</gx:mid>
+		<gx:fid>0x5495a7b0d71ae243:0xc616bbba9ec257d9</gx:fid>
+		<LookAt>
+			<longitude>-122.6865686</longitude>
+			<latitude>45.58193929999999</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>712.8572264493694</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_33E6F6415B36DE155498</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>-122.6865686,45.5819393,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="09930D4CFE21E1F5FFE4">
+		<name>The Pagoda</name>
+		<gx:mid>/g/11bw41b4m0</gx:mid>
+		<gx:fid>0x5495a0d0b9ee7d27:0x97aadb6ca1a5e3c4</gx:fid>
+		<LookAt>
+			<longitude>-122.6231905</longitude>
+			<latitude>45.5353533</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>713.4999997505673</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_33E6F6415B36DE155498</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>-122.6231905,45.53535329999999,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0920712F9421E1F74208">
+		<name>Formosa Cafe</name>
+		<gx:mid>/g/11b8v4lmxs</gx:mid>
+		<gx:fid>0x5495a655a7076d1f:0xe8e2b75814972d7</gx:fid>
+		<LookAt>
+			<longitude>-122.6610189</longitude>
+			<latitude>45.57661299999999</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>712.9307380360972</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_33E6F6415B36DE155498</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>-122.6610189,45.57661299999999,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0F52347CA021E1F95669">
+		<name>Three J&apos;s</name>
+		<gx:mid>/g/11c0yy8xxx</gx:mid>
+		<gx:fid>0x54950a00ebe19b9d:0x7813c7b4a3e1a9fd</gx:fid>
+		<LookAt>
+			<longitude>-122.6746889</longitude>
+			<latitude>45.5248301</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>713.6451351079783</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_33E6F6415B36DE155498</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>-122.6746889,45.5248301,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="028DFAE53721E6860A3F">
+		<name>Pagoda Restaurant</name>
+		<gx:mid>/g/11c21_5w97</gx:mid>
+		<gx:fid>0x87b69367aec544ab:0x39d25aa8b380f39b</gx:fid>
+		<LookAt>
+			<longitude>-95.9749523</longitude>
+			<latitude>36.0904469</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>834.1363683782033</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_33E6F6415B36DE155498</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>-95.9749523,36.0904469,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0A768E28F421E69BF768">
+		<name>Wong&apos;s Restaurant</name>
+		<gx:mid>/g/11bw42n_kt</gx:mid>
+		<gx:fid>0x54c8d4e612fbf303:0xfc03dfda5687ddca</gx:fid>
+		<LookAt>
+			<longitude>-121.7839281</longitude>
+			<latitude>42.2239075</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>758.0573925408614</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_33E6F6415B36DE155498</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>-121.7839281,42.2239075,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="04DDC48AFF21E69FC068">
+		<name>Canton Cafe</name>
+		<gx:mid>/g/11g0284vpp</gx:mid>
+		<gx:fid>0x54c134ea5e55148b:0x525a999ca953b17e</gx:fid>
+		<LookAt>
+			<longitude>-123.0554477</longitude>
+			<latitude>43.6935284</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>738.5637052270496</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_6B62537ABC36DE155498</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>-123.0554477,43.6935284,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="099F95C9A921E6A1D965">
+		<name>Sundown Cae (approximate)</name>
+		<gx:mid>/m/0kpw3</gx:mid>
+		<gx:fid>0x87da551856122831:0xfcbb87f98772852f</gx:fid>
+		<LookAt>
+			<longitude>-110.1715572</longitude>
+			<latitude>34.9107458</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>847.72011777567</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_33E6F6415B36DE155498</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>-110.1715572,34.9107458,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0BA3A3E55B21E6A2D51E">
+		<name>Wing&apos;s</name>
+		<gx:mid>/g/11c48sbznx</gx:mid>
+		<gx:fid>0x872b0d8810b9f201:0xf40b02fbb519b920</gx:fid>
+		<LookAt>
+			<longitude>-112.0468452</longitude>
+			<latitude>33.4798882</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>863.7114725005399</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_33E6F6415B36DE155498</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>-112.0468452,33.4798882,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="06D52A360C21E6A3E196">
+		<name>Jerry Lee&apos;s Market</name>
+		<gx:mid>/g/11bw3yph7b</gx:mid>
+		<gx:fid>0x86d670e7be38b9e9:0x7c001250e3043561</gx:fid>
+		<LookAt>
+			<longitude>-110.9730637</longitude>
+			<latitude>32.2134672</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>877.4104886629774</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_33E6F6415B36DE155498</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>-110.9730637,32.2134672,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0D58359CD721E6A647D5">
+		<name>Loo&apos;s Restaurant</name>
+		<gx:mid>/g/11bw3fq1kf</gx:mid>
+		<gx:fid>0x80d6f6015f6b8299:0xaceacb5d8d2e0afb</gx:fid>
+		<LookAt>
+			<longitude>-114.6251818</longitude>
+			<latitude>32.6891948</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>872.3152716226183</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_33E6F6415B36DE155498</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>-114.6251818,32.6891948,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="01AB97530421E6AC60C5">
+		<name>Jimmy&apos;s Oriental Gardens</name>
+		<gx:mid>/g/11bw4mh64z</gx:mid>
+		<gx:fid>0x80e9147f2318dfc1:0x906c5bc844dc61c8</gx:fid>
+		<LookAt>
+			<longitude>-119.6986193</longitude>
+			<latitude>34.4221614</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>853.2409476583302</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_33E6F6415B36DE155498</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>-119.6986193,34.4221614,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0E05197C4C21E6B0AE1A">
+		<name>Bugle Cafe</name>
+		<gx:fid>0x80952b6c2be3f4bb:0xf84520c5f603176a</gx:fid>
+		<LookAt>
+			<longitude>-119.3430765</longitude>
+			<latitude>36.1922672</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>832.9473493963741</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_33E6F6415B36DE155498</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>-119.3430765,36.1922672,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0B08C9762D21E6B1F56A">
+		<name>Rice Bowl</name>
+		<gx:fid>0x80952b9f40ac0a5d:0x1dc7f76b4f364c4d</gx:fid>
+		<LookAt>
+			<longitude>-119.3468004</longitude>
+			<latitude>36.20837499999999</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>832.759009146532</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_33E6F6415B36DE155498</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>-119.3468004,36.208375,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0C83BD065421E6B64121">
+		<name>Chinese Village Restaurant</name>
+		<gx:mid>/g/11b8vfh6px</gx:mid>
+		<gx:fid>0x89c6c62a7dcfcac9:0x612548f83294c628</gx:fid>
+		<LookAt>
+			<longitude>-75.1549713</longitude>
+			<latitude>39.95538860000001</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>787.2202943411266</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_33E6F6415B36DE155498</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>-75.1549713,39.9553886,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="086AEE82CC21E6B72FE0">
+		<name>Shanghai Gardens Restaurant</name>
+		<gx:mid>/g/11bw40hh_v</gx:mid>
+		<gx:fid>0x89c6c62a8758923d:0xff9ae91fa9067731</gx:fid>
+		<LookAt>
+			<longitude>-75.15501690000001</longitude>
+			<latitude>39.9555909</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>787.21774557826</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_33E6F6415B36DE155498</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>-75.15501689999999,39.9555909,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="023C32938521E6B8DDBB">
+		<name>Golden Dragon Restaurant</name>
+		<gx:fid>0x8834f6c8141db8e5:0xeab65e374a2d8000</gx:fid>
+		<LookAt>
+			<longitude>-80.0187018</longitude>
+			<latitude>40.4246575</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>781.2827254737711</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_33E6F6415B36DE155498</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>-80.0187018,40.4246575,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="02A61D7C0C21E6BA0729">
+		<name>Tea Garden Restaurant</name>
+		<gx:fid>0x8834edc00a511fad:0xa8bc5459a120f395</gx:fid>
+		<LookAt>
+			<longitude>-79.89516019999999</longitude>
+			<latitude>40.4548718</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>780.8987035827278</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_33E6F6415B36DE155498</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>-79.89516019999999,40.4548718,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0AB21C6CE621E6BB13B2">
+		<name>Hong Kong Restaurant</name>
+		<gx:fid>0x87014e159562dd69:0xca0c4afacfef3561</gx:fid>
+		<LookAt>
+			<longitude>-101.8709176</longitude>
+			<latitude>35.22174690000001</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>844.1736858779303</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_33E6F6415B36DE155498</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>-101.8709176,35.2217469,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0EDFE96AC721E6BD6FE1">
+		<name>Albert Gee&apos;s Ding Ho</name>
+		<gx:mid>/g/1tctxyp6</gx:mid>
+		<gx:fid>0x8640e74d4dadfbb9:0xf221215dd9f3c7eb</gx:fid>
+		<LookAt>
+			<longitude>-95.66207039999999</longitude>
+			<latitude>29.6452962</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>903.8360246436072</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_33E6F6415B36DE155498</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>-95.66207039999999,29.6452962,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="002F9D8FBE21E6BF0F70">
+		<name>Cathay House</name>
+		<gx:mid>/g/11p471n1dy</gx:mid>
+		<gx:fid>0x864e0d2a444430f7:0xccbc3ca8d3331cc6</gx:fid>
+		<LookAt>
+			<longitude>-97.4417376</longitude>
+			<latitude>32.7211199</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>871.9711436492411</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_33E6F6415B36DE155498</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>-97.44173760000001,32.7211199,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0EACE3BDC921E6BFE05F">
+		<name>Albert Gee&apos;s Ding Ho</name>
+		<gx:mid>/g/11bw3_1g8n</gx:mid>
+		<gx:fid>0x8640c06dfac1b379:0x3feafcd2a4f585b7</gx:fid>
+		<LookAt>
+			<longitude>-95.40512220000001</longitude>
+			<latitude>29.70743229999999</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>903.2185719063476</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_33E6F6415B36DE155498</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>-95.40512219999999,29.7074323,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0AE60B0C2D21E6C0B4EF">
+		<name>Hao Wah Restaurant</name>
+		<gx:fid>0x8640be72d3054f55:0xfcc1250b888c81b2</gx:fid>
+		<LookAt>
+			<longitude>-95.3184708</longitude>
+			<latitude>29.7059345</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>903.2334686573812</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_33E6F6415B36DE155498</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>-95.31847079999999,29.7059345,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="06BE90EF2A21E6C220FA">
+		<name>Ding Ho Restaurant</name>
+		<gx:fid>0x8752f511dbd673d9:0xb74e7cd957c39134</gx:fid>
+		<LookAt>
+			<longitude>-111.8890397</longitude>
+			<latitude>40.7630151</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>776.9703778714714</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_33E6F6415B36DE155498</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>-111.8890397,40.7630151,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0200B815C821E6C3812C">
+		<name>Ying&apos;s Famous Chinese American Food</name>
+		<gx:mid>/g/11b8vfd7vz</gx:mid>
+		<gx:fid>0x89ba9658485a2173:0x71e4caed30ebb1c5</gx:fid>
+		<LookAt>
+			<longitude>-76.21166719999999</longitude>
+			<latitude>36.87164179999999</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>824.947291952286</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_33E6F6415B36DE155498</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>-76.21166719999999,36.8716418,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="029026EEE821E6C4E6B9">
+		<name>Canton Cafe</name>
+		<gx:mid>/g/11b8v70dbw</gx:mid>
+		<gx:fid>0x54923a190a62f67b:0xda5b1f0e646b109f</gx:fid>
+		<LookAt>
+			<longitude>-123.8142679</longitude>
+			<latitude>46.9756611</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>693.4326673915439</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_33E6F6415B36DE155498</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>-123.8142679,46.97566109999999,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="045F5198E521E6C8AC1C">
+		<name>New Moon Cafe</name>
+		<gx:fid>0x5490587026a6a1e5:0xb638b72a7634474</gx:fid>
+		<LookAt>
+			<longitude>-122.2288948</longitude>
+			<latitude>47.3075924</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>688.7520133721069</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_33E6F6415B36DE155498</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>-122.2288948,47.3075924,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="00BE60B53821E6CC33DB">
+		<name>Tea Garden Cafe (approximate)</name>
+		<gx:mid>/m/02mdv</gx:mid>
+		<gx:fid>0x5499f232b23a8e31:0xf8b0db614cc00917</gx:fid>
+		<LookAt>
+			<longitude>-120.552274</longitude>
+			<latitude>46.9980936</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>15854.99078079706</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_33E6F6415B36DE155498</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>-120.5478474,46.9965144,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0E4B1D6AF421E6CD9D6C">
+		<name>Paragon Restaurant</name>
+		<gx:mid>/g/11bw4cgdb5</gx:mid>
+		<gx:fid>0x54946c8e9eb2fbf5:0x334e7fd33d21b3d1</gx:fid>
+		<LookAt>
+			<longitude>-122.9372275</longitude>
+			<latitude>46.1379102</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>705.1534152604975</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_33E6F6415B36DE155498</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>-122.9372275,46.13791020000001,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0CFC8501C221E6CEE853">
+		<name>Rickshaw Inn</name>
+		<gx:mid>/g/11c23b8qqf</gx:mid>
+		<gx:fid>0x549574f68cb1c0ef:0x4deae2f657fe8077</gx:fid>
+		<LookAt>
+			<longitude>-122.633226</longitude>
+			<latitude>45.41850970000001</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>715.1102747171866</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_33E6F6415B36DE155498</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>-122.633226,45.41850969999999,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="04594549E821E6D224BB">
+		<name>New Shanghai Cafe</name>
+		<gx:mid>/g/11b8z7wkyj</gx:mid>
+		<gx:fid>0x5491751c7d7c32a1:0x92c41d7d2f3c5fdd</gx:fid>
+		<LookAt>
+			<longitude>-122.9023567</longitude>
+			<latitude>47.0438203</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>692.4732178620496</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_33E6F6415B36DE155498</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>-122.9023567,47.0438203,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0141AAC10B21E6D3B381">
+		<name>Soo Hoy Cafe</name>
+		<gx:mid>/g/11c2b2jv1c</gx:mid>
+		<gx:fid>0x549037b9d0d9a69f:0x3aa049aede6dbfee</gx:fid>
+		<LookAt>
+			<longitude>-122.6383235</longitude>
+			<latitude>47.5421151</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>685.4325858191122</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_33E6F6415B36DE155498</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>-122.6383235,47.5421151,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0C690BADEB25052CFFBE">
+		<gx:mid>/g/11c2bjm4bg</gx:mid>
+		<gx:fid>0x86d67051409a6bd1:0x2f82b9b374d0a0e8</gx:fid>
+		<LookAt>
+			<longitude>-110.9434453</longitude>
+			<latitude>32.2210402</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>877.3298614823573</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_33E6F6415B36DE155498</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>-110.9434453,32.2210402,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="057E63284525052F96AF">
+		<name>Forbidden Island</name>
+		<gx:fid>0x5495a3fdd4efd41d:0x14ecb7c99bb2da88</gx:fid>
+		<LookAt>
+			<longitude>-122.5646045</longitude>
+			<latitude>45.55794109999999</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>713.1883964887774</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_369994671436DE15549C</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>-122.5646045,45.5579411,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="06A0C9B25A28F6072622">
+		<name>Foo Chow Restaurant</name>
+		<gx:mid>/g/11bw3ym0j_</gx:mid>
+		<gx:fid>0x5495a6513309317d:0xefe63570d3d121e</gx:fid>
+		<LookAt>
+			<longitude>-122.6591418</longitude>
+			<latitude>45.58086460000001</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>712.8720595034081</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_6B62537ABC36DE155498</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>-122.6591418,45.5808646,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="031042355928F6089798">
+		<name>New China Restaurant </name>
+		<gx:mid>/g/11bw4przm3</gx:mid>
+		<gx:fid>0x880fcf93f49bc4f5:0xaf25b31ac69e266b</gx:fid>
+		<LookAt>
+			<longitude>-87.72110219999999</longitude>
+			<latitude>42.0410692</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>760.4502141214458</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_6B62537ABC36DE155498</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>-87.72110219999999,42.0410692,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0666699C1628F60B9940">
+		<name>Jerry&apos;s Ming House</name>
+		<gx:mid>/g/11c2bjm4bg</gx:mid>
+		<gx:fid>0x86d67051409a6bd1:0x2f82b9b374d0a0e8</gx:fid>
+		<LookAt>
+			<longitude>-110.9434453</longitude>
+			<latitude>32.2210402</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>877.3298614823573</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_6B62537ABC36DE155498</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>-110.9434453,32.2210402,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="07B96DE67A28F61429BE">
+		<gx:fid>0x549e1860684b0db1:0xdf8b4a76d029d416</gx:fid>
+		<LookAt>
+			<longitude>-117.4200243</longitude>
+			<latitude>47.6590448</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>683.7737726643568</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_6B62537ABC36DE155498</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>-117.4200243,47.6590448,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="03563656E428F6164E18">
+		<name>New Grand Cafe</name>
+		<gx:mid>/g/11c1y853n_</gx:mid>
+		<gx:fid>0x875a60ee491ef8d9:0x9ae40e5bcf39d4c3</gx:fid>
+		<LookAt>
+			<longitude>-109.2201755</longitude>
+			<latitude>41.58845100000001</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>766.3421958776397</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_6B62537ABC36DE155498</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>-109.2201755,41.588451,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="07C80453AB28F62C2586">
+		<name>Fong&apos;s Chinese Restaurant</name>
+		<gx:mid>/g/11b8v7tkfh</gx:mid>
+		<gx:fid>0x80945e58d12383cf:0xa2b9feba413ff47b</gx:fid>
+		<LookAt>
+			<longitude>-119.7450923</longitude>
+			<latitude>36.74294010000001</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>826.4716825595675</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_6B62537ABC36DE155498</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>-119.7450923,36.7429401,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0A7F57E8FA28F6313C42">
+		<name>Woo&apos;s Pagoda</name>
+		<gx:mid>/g/11dzns1hn5</gx:mid>
+		<gx:fid>0x87f8bcd23a44671f:0x504d5d108e6442b3</gx:fid>
+		<LookAt>
+			<longitude>-91.47419000000001</longitude>
+			<latitude>44.837166</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>723.0817210373033</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_6B62537ABC36DE155498</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>-91.47418999999999,44.837166,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0442FFCA0628F6333D62">
+		<name>Canton Cafe</name>
+		<gx:mid>/g/11b6x9yf80</gx:mid>
+		<gx:fid>0x87530ed8b457cc71:0x7ab5a3c76101a5f7</gx:fid>
+		<LookAt>
+			<longitude>-111.9702313</longitude>
+			<latitude>41.2194698</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>771.1119513926216</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_6B62537ABC36DE155498</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>-111.9702596,41.2194645,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="054C59F30E35F3FD7157">
+		<name>Gee&apos;s Restaurant</name>
+		<LookAt>
+			<longitude>-95.38433120010026</longitude>
+			<latitude>29.82857889994298</latitude>
+			<altitude>15.95790369950045</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>721.9568174079178</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_04B9E915D636DE155495</styleUrl>
+		<Point>
+			<coordinates>-95.38446825503023,29.82877822715325,16.48079965934585</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0314D7E38535F40088B9">
+		<name>Golden Dragon Cafe</name>
+		<gx:mid>/g/11c0zk9376</gx:mid>
+		<gx:fid>0x5491000e693004e7:0x433fbd92e8970430</gx:fid>
+		<LookAt>
+			<longitude>-122.4833363</longitude>
+			<latitude>47.2075235</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>690.1652789915236</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_6B62537ABC36DE155498</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>-122.4833363,47.2075235,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="02D25E93EC35F402A047">
+		<name>Golden Dragon Cafe</name>
+		<gx:mid>/g/11bw4k0g67</gx:mid>
+		<gx:fid>0x549239a787adb4c3:0xd0c5465719a7bece</gx:fid>
+		<LookAt>
+			<longitude>-123.885008</longitude>
+			<latitude>46.9775107</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>693.4066428361566</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_6B62537ABC36DE155498</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>-123.885008,46.97751069999999,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="00885A2D0935F4052484">
+		<name>Bill Lee&apos;s Bamboo Chopsticks</name>
+		<gx:mid>/g/11bw4435s8</gx:mid>
+		<gx:fid>0x80ea69899e500f7f:0xa385b526cc3a8f05</gx:fid>
+		<LookAt>
+			<longitude>-119.0156857</longitude>
+			<latitude>35.3750106</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>842.4168156550829</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_6B62537ABC36DE155498</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>-119.0156857,35.3750106,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="06B52CBA0235F406198C">
+		<name>New Chinatown Restaurant and Cocktail Lounge</name>
+		<gx:mid>/g/11c4w58t0l</gx:mid>
+		<gx:fid>0x87220b1b6d002b45:0x7447babf704b2b86</gx:fid>
+		<LookAt>
+			<longitude>-106.5890155</longitude>
+			<latitude>35.0787225</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>845.8077325655393</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_6B62537ABC36DE155498</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>-106.5890155,35.0787225,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0320EF94E935F407DDF7">
+		<name>House of Lee</name>
+		<gx:mid>/g/11bw43892z</gx:mid>
+		<gx:fid>0x8620b026a10441ff:0xaf407801657e1ab9</gx:fid>
+		<LookAt>
+			<longitude>-90.15399719999999</longitude>
+			<latitude>30.0040868</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>900.2555230796945</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_6B62537ABC36DE155498</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>-90.15399719999999,30.0040868,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="048198310D35F409029A">
+		<name>Tai Wan Cafe</name>
+		<gx:fid>0x54900e11dd08d2ed:0x3ce858ad6fbcd6d3</gx:fid>
+		<LookAt>
+			<longitude>-122.2129199</longitude>
+			<latitude>47.75057229999999</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>682.473573304301</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_6B62537ABC36DE155498</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>-122.2129199,47.75057229999999,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0115B5277935F415E305">
+		<name>Lee&apos;s Cafe</name>
+		<gx:fid>0x80ec6c7f5f88a41b:0x1b1ddd0e43677138</gx:fid>
+		<LookAt>
+			<longitude>-120.4355369</longitude>
+			<latitude>34.954639</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>847.221105421839</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_6B62537ABC36DE155498</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>-120.4355369,34.954639,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="032F6A09A835F41725DE">
+		<name>South China Cafe</name>
+		<gx:mid>/g/11k3rk7z66</gx:mid>
+		<gx:fid>0x54906a87051b91c5:0xbf79ab410345e6f4</gx:fid>
+		<LookAt>
+			<longitude>-122.3115407</longitude>
+			<latitude>47.5788152</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>684.9122139612264</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_6B62537ABC36DE155498</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>-122.3115407,47.57881519999999,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="007013D46F35F41834F0">
+		<name>3 Towers Restaurant</name>
+		<gx:fid>0x87afd3f7054cabc7:0xa86babf8ecf87606</gx:fid>
+		<LookAt>
+			<longitude>-97.875305</longitude>
+			<latitude>36.4226403</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>830.2475076208435</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_6B62537ABC36DE155498</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>-97.87530499999998,36.4226403,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0B53EE3B9735F41A0C43">
+		<name>Mikayo&apos;s</name>
+		<LookAt>
+			<longitude>-117.1717681998022</longitude>
+			<latitude>32.72619639996007</latitude>
+			<altitude>24.27774694863528</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>690.3203677410056</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_04B9E915D636DE155495</styleUrl>
+		<Point>
+			<coordinates>-117.1720453168495,32.72574155838311,9.394010360402946</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0B570CC27835F41AF9C2">
+		<name>Chiam</name>
+		<gx:mid>/g/11c5l9qyh_</gx:mid>
+		<gx:fid>0x880e2c63909c0637:0x890399c2fbc38902</gx:fid>
+		<LookAt>
+			<longitude>-87.631613</longitude>
+			<latitude>41.851472</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>762.9237814289723</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_6B62537ABC36DE155498</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>-87.631613,41.851472,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0AD7994A2D35F41C9875">
+		<name>Oriental Restaurant</name>
+		<gx:mid>/g/11jfp_dmpp</gx:mid>
+		<gx:fid>0x4cae4b5ab853c415:0xb5f889e022635bdc</gx:fid>
+		<LookAt>
+			<longitude>-68.76880489999999</longitude>
+			<latitude>44.80220589999999</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>723.5589411540755</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_6B62537ABC36DE155498</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>-68.76880489999999,44.8022059,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="08CC59281735F41DDA92">
+		<name>Chungking Restaurant</name>
+		<gx:fid>0x80dcb1f0258c472b:0x69cbe6e59103553</gx:fid>
+		<LookAt>
+			<longitude>-117.375732</longitude>
+			<latitude>33.982506</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>858.1555539219294</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_6B62537ABC36DE155498</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>-117.375732,33.982506,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0B45BCBDDE35F41F447A">
+		<name>Chinese Palace Restaurant</name>
+		<gx:mid>/g/1tg7snnq</gx:mid>
+		<gx:fid>0x883093733ca0ee8f:0xa9086a123aa7e444</gx:fid>
+		<LookAt>
+			<longitude>-81.9019983</longitude>
+			<latitude>41.4151369</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>768.5863628932947</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_6B62537ABC36DE155498</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>-81.9019983,41.4151369,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="09FE4150E135F4234CE8">
+		<name>Hong Kong Restaurant</name>
+		<gx:fid>0x883102c3b7969a1d:0xc1c1f06d97a35b14</gx:fid>
+		<LookAt>
+			<longitude>-81.48682099999999</longitude>
+			<latitude>41.4618455</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>767.9822093382247</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_6B62537ABC36DE155498</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>-81.48682099999999,41.4618455,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0E6C4DC2CF35F4292ABA">
+		<name>Hung Far Low</name>
+		<gx:mid>/g/11c2g1ftsb</gx:mid>
+		<gx:fid>0x54950a00c385ecd7:0x18886e6a6f2ba3c</gx:fid>
+		<LookAt>
+			<longitude>-122.674308</longitude>
+			<latitude>45.5240843</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>713.655420309946</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_6B62537ABC36DE155498</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>-122.674308,45.5240843,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="064F0D8D8735F42A2A9D">
+		<name>Sunlite Cafe</name>
+		<gx:mid>/g/11bw41cvgn</gx:mid>
+		<gx:fid>0x549042ac8c348223:0x93619cbb72161118</gx:fid>
+		<LookAt>
+			<longitude>-122.2100145</longitude>
+			<latitude>47.4794561</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>686.3204556231458</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_6B62537ABC36DE155498</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>-122.2100145,47.4794561,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="04785340BF35F42BA645">
+		<name>Far East</name>
+		<gx:mid>/g/11gr6crk3c</gx:mid>
+		<gx:fid>0x549e21fee85457ef:0x117039b89d0a865e</gx:fid>
+		<LookAt>
+			<longitude>-117.3395676</longitude>
+			<latitude>47.6560751</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>683.8159331746822</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_6B62537ABC36DE155498</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>-117.3392049847836,47.65698598552519,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="024D41125635F42C5B61">
+		<name>China Doll Restaurant</name>
+		<gx:mid>/g/11c4gr2pch</gx:mid>
+		<gx:fid>0x89c804a20e9946d5:0x8f172bdbe9ec6c0f</gx:fid>
+		<LookAt>
+			<longitude>-76.61845649999999</longitude>
+			<latitude>39.2943556</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>795.49791286665</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_6B62537ABC36DE155498</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>-76.61845649999999,39.2943556,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0D61BCF28E35F42D4504">
+		<name>Wee&apos;s Cafe</name>
+		<gx:mid>/g/11h7kd4w3n</gx:mid>
+		<gx:fid>0x872b14848fa5b73f:0x9b494a958a2de5b5</gx:fid>
+		<LookAt>
+			<longitude>-112.1498684</longitude>
+			<latitude>33.4808285</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>863.7011411008964</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_6B62537ABC36DE155498</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>-112.1498684,33.4808285,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="058A4E32C935F42E2282">
+		<name>Dorothy Wong&apos;s East Wind Restaurant</name>
+		<gx:mid>/g/11b8vdsw64</gx:mid>
+		<gx:fid>0x8824d7f02ef4d6cf:0xfa1e248e75ca96d6</gx:fid>
+		<LookAt>
+			<longitude>-82.9201745</longitude>
+			<latitude>42.4798199</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>754.6960565268824</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_6B62537ABC36DE155498</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>-82.9201745,42.4798199,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0DCC6418B635F42F174F">
+		<name>The Peach Garden</name>
+		<gx:mid>/g/11csk0sn6r</gx:mid>
+		<gx:fid>0x87d8b4bb33fa03d9:0x61c66acd03f78363</gx:fid>
+		<LookAt>
+			<longitude>-90.23403719999999</longitude>
+			<latitude>38.6386504</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>803.6075964105341</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_6B62537ABC36DE155498</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>-90.23403719999999,38.6386504,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="046AA5EA7035F42FEEF4">
+		<name>Sun Chong Lung Chinese Merchandise and Grocery</name>
+		<gx:mid>/g/11csp4yzch</gx:mid>
+		<gx:fid>0x880e2c63c76f6c79:0x595cb959bb25de5</gx:fid>
+		<LookAt>
+			<longitude>-87.63225399999999</longitude>
+			<latitude>41.85230800000001</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>762.9128918959813</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_6B62537ABC36DE155498</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>-87.63225399999999,41.852308,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="04F967DE3235F431166D">
+		<name>China Village</name>
+		<gx:fid>0x8752f7f4b2ac78b1:0x24d046f455241d0d</gx:fid>
+		<LookAt>
+			<longitude>-111.8811233</longitude>
+			<latitude>40.885856</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>775.3983663789585</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_6B62537ABC36DE155498</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>-111.8811233,40.885856,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0F573E255735F43207AB">
+		<name>Oriental Terrace Rest</name>
+		<gx:mid>/g/11c3q3r9wl</gx:mid>
+		<gx:fid>0x8830e28c868f4963:0x5ba863d3913f7198</gx:fid>
+		<LookAt>
+			<longitude>-81.53521529999999</longitude>
+			<latitude>41.41434210000001</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>768.5966390635449</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_6B62537ABC36DE155498</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>-81.53521529999999,41.4143421,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="05A33A789F35F435FC43">
+		<name>Moy&apos;s Chinese Restaurant</name>
+		<gx:mid>/g/11b8v61bsl</gx:mid>
+		<gx:fid>0x88d9ab7559b3eafd:0x1a4134856e4d64e3</gx:fid>
+		<LookAt>
+			<longitude>-80.1437014</longitude>
+			<latitude>26.0127949</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>937.9790371081783</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_6B62537ABC36DE155498</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>-80.1437014,26.0127949,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="053770E9D43602E04561">
+		<name>Chinalane</name>
+		<gx:fid>0x8830fa62dace3787:0x1bfd6959b9286855</gx:fid>
+		<LookAt>
+			<longitude>-81.6791686</longitude>
+			<latitude>41.50147389999999</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>767.4692553865551</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_6B62537ABC36DE155498</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>-81.6791686,41.5014739,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="056E85A7103602E3E1EB">
+		<name>Formosa</name>
+		<gx:fid>0x88d9c7faed9f67f5:0x42adcb834ff72775</gx:fid>
+		<LookAt>
+			<longitude>-80.2861738</longitude>
+			<latitude>25.7069554</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>940.6747591279561</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_6B62537ABC36DE155498</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>-80.2861738,25.7069554,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="068385EE0F3602E51A8E">
+		<name>Dan Chan Restaurant</name>
+		<gx:mid>/g/1hfj5xdh5</gx:mid>
+		<gx:fid>0x89e3e7775fbe4703:0xc6c22b2a43a42043</gx:fid>
+		<LookAt>
+			<longitude>-71.77604409999999</longitude>
+			<latitude>42.5808848</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>753.36470167752</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_6B62537ABC36DE155498</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>-71.77604409999999,42.5808848,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="044F0973B73602E693C3">
+		<name>Hong Kong Cafe</name>
+		<gx:mid>/g/11b8v4frzq</gx:mid>
+		<gx:fid>0x54906abc5f6446b5:0x864ff9065da971b2</gx:fid>
+		<LookAt>
+			<longitude>-122.3254225</longitude>
+			<latitude>47.59804249999999</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>684.6394904506147</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_6B62537ABC36DE155498</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>-122.3254225,47.59804250000001,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="084DE5C9113602EFBE2A">
+		<name>Louie&apos;s Golden Dragon</name>
+		<gx:fid>0x54aef8e879485f81:0x1120ea4dff252089</gx:fid>
+		<LookAt>
+			<longitude>-116.2124611</longitude>
+			<latitude>43.6190241</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>739.5629520917478</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_6B62537ABC36DE155498</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>-116.2124611,43.6190241,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="05AA83B6313602F8485A">
+		<name>China Clipper</name>
+		<gx:mid>/g/1ts_69wc</gx:mid>
+		<gx:fid>0x54a035474ffd3253:0xd8834d2cb10bbafe</gx:fid>
+		<LookAt>
+			<longitude>-117.0040454</longitude>
+			<latitude>46.424606</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>3526.824021658418</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_6B62537ABC36DE155498</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>-117.0040454,46.4246065,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0119F2244E36035BE84B">
+		<name>Jimmy Wong&apos;s Golden Dragon</name>
+		<gx:mid>/g/11bw3_yjkl</gx:mid>
+		<gx:fid>0x80d954da86e2c715:0xca19bfab4ba1e1d9</gx:fid>
+		<LookAt>
+			<longitude>-117.1612846</longitude>
+			<latitude>32.7484788</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>871.6760165161311</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_6B62537ABC36DE155498</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>-117.1612846,32.7484788,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="01AD25918F36035FFA1D">
+		<gx:mid>/g/11b8v4lmxs</gx:mid>
+		<gx:fid>0x5495a655a7076d1f:0xe8e2b75814972d7</gx:fid>
+		<LookAt>
+			<longitude>-122.6610382</longitude>
+			<latitude>45.5766181</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>712.930667650487</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_6B62537ABC36DE155498</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>-122.6610382,45.5766181,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0A4EC6C93E360361F4E9">
+		<name>New Sea Girt Inn 8044 Smallwood Rd.</name>
+		<gx:mid>/g/11c5pmw33t</gx:mid>
+		<gx:fid>0x89b7fe68d0275807:0x1aed2b36d81139d6</gx:fid>
+		<LookAt>
+			<longitude>-76.53087599999999</longitude>
+			<latitude>39.167775</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>797.0713492907746</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_6B62537ABC36DE155498</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>-76.53087599999999,39.167775,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="01CD76A5F736036372EC">
+		<name>China Land</name>
+		<gx:mid>/g/11bw3_bn0p</gx:mid>
+		<gx:fid>0x80deaae3422a31fb:0xd68a9d21380024c4</gx:fid>
+		<LookAt>
+			<longitude>-117.2075417</longitude>
+			<latitude>32.749959</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>871.660043468507</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_6B62537ABC36DE155498</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>-117.2075417,32.749959,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0D793E4E2D3608952E09">
+		<name>Golden Buddha</name>
+		<gx:fid>0x88c31591eba73065:0x35d4aa8f95ceeba9</gx:fid>
+		<LookAt>
+			<longitude>-82.57326619999999</longitude>
+			<latitude>27.4154392</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>925.2558820427599</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_6B62537ABC36DE155498</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>-82.57326619999999,27.4154392,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0A196300A936089CC48F">
+		<name>Al&apos;s Chop Suey</name>
+		<gx:mid>/g/11csfp9t40</gx:mid>
+		<gx:fid>0x808f868aa36c8d89:0xb9deb00204b89944</gx:fid>
+		<LookAt>
+			<longitude>-122.2205432</longitude>
+			<latitude>37.77490880000001</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>814.133653290624</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_6B62537ABC36DE155498</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>-122.2205432,37.7749088,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="072BAA0ED636089DF6B3">
+		<name>Oriental Kitchen</name>
+		<gx:mid>/g/11fj9d8md3</gx:mid>
+		<gx:fid>0x89b7b6ba5a3ec123:0x1267154c07283a2f</gx:fid>
+		<LookAt>
+			<longitude>-77.0876749</longitude>
+			<latitude>38.86253500000001</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>800.8500538532357</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_6B62537ABC36DE155498</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>-77.0876749,38.862535,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0F2A0A708536089EE399">
+		<name>Eng&apos;s Restaurant</name>
+		<gx:mid>/m/0cgzyb</gx:mid>
+		<gx:fid>0x89ba9643062aa6ab:0xcf23478ab7dd4e91</gx:fid>
+		<LookAt>
+			<longitude>-76.2070274</longitude>
+			<latitude>36.858219</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>825.1064688014271</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_6B62537ABC36DE155498</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>-76.2070274,36.858219,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0C9087DF983608A18C7C">
+		<name>Good Earth Restaurant</name>
+		<gx:mid>/g/11csm4zsn_</gx:mid>
+		<gx:fid>0x89c2588a0b89a6b7:0x14f398b0520f0fea</gx:fid>
+		<LookAt>
+			<longitude>-73.9826065</longitude>
+			<latitude>40.7787731</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>776.7689110059989</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_6B62537ABC36DE155498</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>-73.9826065,40.7787731,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0FC1A067FF3608AA9CF1">
+		<name>Lotus Room</name>
+		<gx:fid>0x87d8cb22c8488347:0x34d949a9ec30fa07</gx:fid>
+		<LookAt>
+			<longitude>-90.3461255</longitude>
+			<latitude>38.6330085</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>803.6769325909601</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_6B62537ABC36DE155498</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>-90.3461255,38.6330085,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="08C34A4EA636133CB0F5">
+		<name>Gang Sue&apos;s Teagarden</name>
+		<gx:fid>0x80eab81ee11a5ccf:0xbdf4628544047a99</gx:fid>
+		<LookAt>
+			<longitude>-119.0255509</longitude>
+			<latitude>36.0865766</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>834.1815126700471</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_6B62537ABC36DE155498</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>-119.0255509,36.0865766,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0EA6D232E3361340A184">
+		<name>Rice Bowl</name>
+		<gx:mid>/g/1td9wbg0</gx:mid>
+		<gx:fid>0x8082d88e4168dc6b:0x8f293d8e46aa6b99</gx:fid>
+		<LookAt>
+			<longitude>-121.865739</longitude>
+			<latitude>39.761481</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>789.6589741763092</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_6B62537ABC36DE155498</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>-121.865739,39.761481,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="073DE40D6A361343E2A7">
+		<name>Rice Bowl</name>
+		<gx:mid>/g/11dfjw_t1j</gx:mid>
+		<gx:fid>0x809142562a07e985:0xafdaab779bedb1e</gx:fid>
+		<LookAt>
+			<longitude>-120.490164</longitude>
+			<latitude>37.303066</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>819.8074223683921</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_6B62537ABC36DE155498</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>-120.490164,37.303066,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0D62E6F8A33613451BC0">
+		<name>Yangtze Restaurant</name>
+		<gx:mid>/g/11bw3wkrgf</gx:mid>
+		<gx:fid>0x80c3338ebc046841:0xb89af23b042e591b</gx:fid>
+		<LookAt>
+			<longitude>-117.6504923</longitude>
+			<latitude>34.0641073</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>857.2472298161196</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_6B62537ABC36DE155498</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>-117.6504923,34.0641073,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0561AEE9CF361346AFB9">
+		<name>George Ching&apos;s The Golden Lion</name>
+		<gx:mid>/g/11b8yzblf2</gx:mid>
+		<gx:fid>0x80c2d0a357ee403f:0xd946bb5383087541</gx:fid>
+		<LookAt>
+			<longitude>-118.0362565</longitude>
+			<latitude>34.0687818</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>857.1951436673462</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_6B62537ABC36DE155498</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>-118.0362565,34.0687818,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0C91D334BB361347BCBB">
+		<name>Lem&apos;s Restaurant</name>
+		<gx:mid>/g/11bw3z8pb2</gx:mid>
+		<gx:fid>0x80c29c3f60c27bcf:0xbaa9e0c0b162b2a8</gx:fid>
+		<LookAt>
+			<longitude>-118.6074026</longitude>
+			<latitude>34.2012705</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>855.7164821623161</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_6B62537ABC36DE155498</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>-118.6074026,34.2012705,0</coordinates>
+		</Point>
+	</Placemark>
+</Document>
+</kml>
